@@ -1,0 +1,37 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="737.5px"
+	 height="202.47px" viewBox="0 0 737.5 202.47" style="overflow:visible;enable-background:new 0 0 737.5 202.47;"
+	 xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#4E4E4E;stroke-width:0.9921;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#662D91;stroke-width:0.9921;stroke-miterlimit:10;}
+	.st2{fill:none;stroke:#EC008C;stroke-width:0.9921;stroke-miterlimit:10;}
+	.st3{fill:none;stroke:#ED1C24;stroke-width:0.9921;stroke-miterlimit:10;}
+	.st4{fill:none;stroke:#F7941D;stroke-width:0.9921;stroke-miterlimit:10;}
+	.st5{fill:none;stroke:#000000;stroke-miterlimit:10;}
+</style>
+<defs>
+</defs>
+<g id="Normal_1_">
+	<g id="Coordinates_2_">
+		<path class="st0" d="M737.5,202.47"/>
+		<path class="st1" d="M0,202.47"/>
+		<path id="M2_2_" class="st2" d="M653.69,192.64"/>
+		<path id="M1_2_" class="st3" d="M511.58,192.64"/>
+		<path id="IM_4_" class="st4" d="M454.74,192.64"/>
+		<path id="OM_2_" class="st3" d="M255.79,192.64"/>
+	</g>
+	<g id="Marker_2_">
+		<line id="CM2_2_" class="st2" x1="653.69" y1="0" x2="653.69" y2="192.64"/>
+		<line id="CM1_2_" class="st3" x1="511.58" y1="0" x2="511.58" y2="192.64"/>
+		<line id="IM_1_" class="st4" x1="454.74" y1="0" x2="454.74" y2="192.64"/>
+		<line id="MM_2_" class="st3" x1="255.79" y1="0" x2="255.79" y2="192.64"/>
+	</g>
+	<polyline class="st5" points="0.37,177.14 14.79,176.04 29.21,174.83 43.19,175.38 57.29,177.03 71.49,178.57 86.02,178.68 
+		100.22,177.25 114.31,175.38 128.84,173.94 143.05,170.42 157.25,166.13 171.45,163.38 185.54,162.27 199.74,161.28 214.06,158.42 
+		228.15,157.76 242.46,158.09 256.44,158.53 270.86,158.86 285.17,157.87 298.94,155.78 313.47,153.58 327.34,152.26 341.76,151.16 
+		355.85,151.82 370.28,151.93 384.04,151.49 398.46,149.83 412.66,149.17 426.2,147.85 431.82,145.43 441.06,140.37 451.41,133.98 
+		455.38,131.45 467.27,122.75 469.25,121.1 482.02,121.21 493.03,125.17 497.54,121.32 510.31,111.08 526.05,106.13 540.15,102.28 
+		554.57,100.29 568.88,98.97 582.75,98.09 596.84,97.1 611.16,92.81 625.25,88.18 639.01,87.85 647.6,88.07 653.98,91.82 
+		667.74,98.75 681.17,110.64 690.64,117.47 696.15,119.67 701.1,121.98 710.13,125.72 722.9,133.54 	"/>
+</g>
+</svg>

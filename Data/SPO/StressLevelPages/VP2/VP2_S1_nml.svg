@@ -1,0 +1,27 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="710.61px" height="228.66px" viewBox="0 0 710.61 228.66"
+	 style="overflow:visible;enable-background:new 0 0 710.61 228.66;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#4E4E4E;stroke-width:0.9921;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#3DB54A;stroke-width:0.9921;stroke-miterlimit:10;}
+	.st2{fill:none;stroke:#F79421;stroke-width:0.9921;stroke-miterlimit:10;}
+	.st3{fill:none;stroke:#EC2227;stroke-width:0.9921;stroke-miterlimit:10;}
+	.st4{fill:none;stroke:#67308F;stroke-width:0.9921;stroke-miterlimit:10;}
+	.st5{fill:none;stroke:#000000;stroke-miterlimit:10;}
+</style>
+<defs>
+</defs>
+<g id="Normal_1_">
+	<g id="Coordinates_2_">
+		<path id="_x30_0_2_" class="st0" d="M0.08,228.66"/>
+		<path id="_x30_1_2_" class="st1" d="M0,0"/>
+		<path id="_x31_0_2_" class="st0" d="M710.61,228.66"/>
+	</g>
+	<g id="Marker_2_">
+		<line id="IM_1_" class="st2" x1="511.66" y1="16.12" x2="511.66" y2="205.79"/>
+		<line id="MM_1_" class="st3" x1="284.29" y1="16.12" x2="284.29" y2="205.79"/>
+		<line id="OM_1_" class="st4" x1="85.34" y1="16.12" x2="85.34" y2="205.79"/>
+	</g>
+	<polyline class="st5" points="42.61,137.16 186.94,68.79 393.7,73.08 569.73,69.45 	"/>
+</g>
+</svg>

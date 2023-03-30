@@ -1,0 +1,4 @@
+dash==2.6.1
+dash_daq==0.5.0
+numpy==1.20.3
+Pillow==9.4.0

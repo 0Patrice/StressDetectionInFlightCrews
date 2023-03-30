@@ -1,0 +1,35 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="710.53px" height="228.66px" viewBox="0 0 710.53 228.66"
+	 style="overflow:visible;enable-background:new 0 0 710.53 228.66;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#4E4E4E;stroke-width:0.9921;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#3DB54A;stroke-width:0.9921;stroke-miterlimit:10;}
+	.st2{fill:none;stroke:#F79421;stroke-width:0.9921;stroke-miterlimit:10;}
+	.st3{fill:none;stroke:#EC2227;stroke-width:0.9921;stroke-miterlimit:10;}
+	.st4{fill:none;stroke:#67308F;stroke-width:0.9921;stroke-miterlimit:10;}
+	.st5{fill:none;stroke:#000000;stroke-miterlimit:10;}
+</style>
+<defs>
+</defs>
+<g id="Normal_1_">
+	<g id="Coordinates_2_">
+		<path id="_x30_0_2_" class="st0" d="M0,228.66"/>
+		<path id="_x30_1_2_" class="st1" d="M0,0"/>
+		<path id="_x31_0_2_" class="st0" d="M710.53,228.66"/>
+		<path id="IM_4_" class="st2" d="M511.58,218.83"/>
+		<path id="MM_4_" class="st3" d="M284.21,218.83"/>
+		<path id="OM_4_" class="st4" d="M85.26,218.83"/>
+	</g>
+	<g id="Marker_2_">
+		<line id="IM_1_" class="st2" x1="511.58" y1="4.6" x2="511.58" y2="224.35"/>
+		<line id="MM_1_" class="st3" x1="284.21" y1="4.6" x2="284.21" y2="224.35"/>
+		<line id="OM_1_" class="st4" x1="85.26" y1="4.6" x2="85.26" y2="224.35"/>
+	</g>
+	<polyline class="st5" points="0.75,158.46 14.07,157.3 28.44,157.03 42.59,157.69 56.84,157.91 70.88,156.86 85.25,155.38 
+		90.09,154.94 99.23,152.57 113.43,147.67 127.47,142.94 141.73,136.33 155.87,130.61 169.96,124.77 184.28,117.89 198.26,112.55 
+		212.68,108.7 226.88,102.37 233.38,99.67 240.81,96.42 255.01,92.19 269.16,90.2 282.97,88.77 297.34,89.93 311.71,90.31 
+		325.69,91.69 340,91.86 354.09,91.86 368.57,90.86 382.61,90.53 396.86,89.43 410.84,89.76 425.27,89.71 439.08,88.83 
+		453.61,89.05 467.71,89.54 481.41,90.86 496,90.59 510.7,89.54 524.79,88.99 538.72,86.9 553.3,82.72 567.34,77.98 581.65,72.92 
+		596.07,69.18 610.16,68.9 624.42,70.06 638.73,70 653.21,68.08 667.03,68.08 681.61,67.47 695.87,68.02 709.85,68.79 	"/>
+</g>
+</svg>

@@ -1,0 +1,33 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="710.73px" height="228.66px" viewBox="0 0 710.73 228.66"
+	 style="overflow:visible;enable-background:new 0 0 710.73 228.66;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#4E4E4E;stroke-width:0.9921;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#3DB54A;stroke-width:0.9921;stroke-miterlimit:10;}
+	.st2{fill:none;stroke:#F79421;stroke-width:0.9921;stroke-miterlimit:10;}
+	.st3{fill:none;stroke:#EC2227;stroke-width:0.9921;stroke-miterlimit:10;}
+	.st4{fill:none;stroke:#67308F;stroke-width:0.9921;stroke-miterlimit:10;}
+	.st5{fill:none;stroke:#000000;stroke-miterlimit:10;}
+</style>
+<defs>
+</defs>
+<g id="Normal_1_">
+	<g id="Coordinates_2_">
+		<path id="_x30_0_2_" class="st0" d="M0,228.66"/>
+		<path id="_x30_1_2_" class="st1" d="M0,0"/>
+		<path id="_x31_0_2_" class="st0" d="M710.53,228.66"/>
+	</g>
+	<g id="Marker_2_">
+		<line id="IM_1_" class="st2" x1="511.58" y1="4.6" x2="511.58" y2="224.35"/>
+		<line id="MM_1_" class="st3" x1="284.21" y1="4.6" x2="284.21" y2="224.35"/>
+		<line id="OM_1_" class="st4" x1="85.26" y1="4.6" x2="85.26" y2="224.35"/>
+	</g>
+	<polyline class="st5" points="0.48,168.31 12.92,158.85 28.66,149.16 36.48,145.3 42.86,142.99 50.02,139.25 57.17,134.3 
+		62.79,131.1 71.27,123.62 80.07,118 86.13,115.69 100.22,115.14 113.76,114.7 128.51,114.59 142.61,115.58 156.59,118.66 
+		171.45,122.3 185.65,124.83 199.19,128.68 213.73,132.42 220.55,135.62 227.82,139.14 234.31,142.66 242.02,143.32 247.41,144.75 
+		256.11,146.85 270.86,152.46 284.95,157.85 298.5,156.09 313.36,155.76 327.67,154.88 341.65,151.91 355.96,148.83 370.28,142.99 
+		384.59,135.73 398.57,129.56 412.88,123.18 427.08,115.14 440.62,108.09 455.16,102.59 469.58,96.97 483.67,93.45 497.43,91.25 
+		512.07,90.15 526.39,88.94 539.93,86.41 554.46,83.65 568.77,82.99 582.86,82.11 597.28,81.12 610.72,80.13 625.36,77.05 
+		634.16,76.28 653.98,80.68 667.41,82.99 681.83,86.3 695.49,87.51 710.57,92.79 	"/>
+</g>
+</svg>
